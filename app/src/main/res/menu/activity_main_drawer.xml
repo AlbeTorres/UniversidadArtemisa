@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/historia"
+            android:icon="@drawable/ic_menu_history"
+            android:title="Historia del béisbol" />
+        <item
+            android:id="@+id/reglas"
+            android:icon="@drawable/ic_menu_structure"
+            android:title="Reglas del Béisbol" />
+        <item
+            android:id="@+id/definición"
+            android:icon="@drawable/ic_menu_university_council"
+            android:title="Definición de términos" />
+        <item
+            android:id="@+id/director"
+            android:icon="@drawable/ic_menu_people"
+            android:title="Director de equipo y auxiliares" />
+
+        <item
+            android:id="@+id/bateador"
+            android:icon="@drawable/ic_menu_people"
+            android:title="El bateador " />
+        <item
+            android:id="@+id/lanzador"
+            android:icon="@drawable/ic_menu_gold_titles"
+            android:title="Lanzador" />
+        <item
+            android:id="@+id/receptor"
+            android:icon="@drawable/ic_menu_rector_awards"
+            android:title="Receptor" />
+        <item
+            android:id="@+id/cuadro"
+            android:icon="@drawable/ic_menu_villena_awards"
+            android:title="Jugadores de cuadro" />
+        <item
+            android:id="@+id/jardineros"
+            android:icon="@drawable/ic_menu_location"
+            android:title="Jardineros" />
+        <item
+            android:id="@+id/táctica"
+            android:icon="@drawable/ic_menu_about"
+            android:title="Táctica defensiva" />
+        <item
+            android:id="@+id/categorías"
+            android:icon="@drawable/ic_menu_about"
+            android:title="Categorías inferiores" />
+        <item
+            android:id="@+id/logros"
+            android:icon="@drawable/ic_menu_rector_awards"
+            android:title="Logros internacionales" />
+    </group>
+
+
+
+
+
+
+
+</menu>
